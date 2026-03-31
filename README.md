@@ -1,4 +1,5 @@
 # Blogicum
+![image]([https://github.com/RiSSoL-86/django_sprint4/assets/110422516/b744dfec-ac8a-4f60-9428-a8ce106f41b5](https://github.com/youworu/django_sprint4/blob/6cf0257ce166b866cd570989d0100160e9a46b66/screenshot.png))
 
 ## О проекте
 **Blogicum** — учебный Django-проект для публикации личных записей.
